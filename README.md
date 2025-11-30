@@ -85,7 +85,7 @@ Required for **Real-Time Monitoring** to function.
 2. Navigate to the **Real-Time Monitoring** screen.
 3. Tap **Grant Usage Access**.
 4. In Android **Settings**, enable:
-   **Permit usage access → DPSG CyberX**
+   **Permit usage access → CyberX**
 5. Return to the app → The status becomes **Granted**.
 
 ---
