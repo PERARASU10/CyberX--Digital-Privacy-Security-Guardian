@@ -20,8 +20,8 @@ The application is structured into **four main functional modules**, all accessi
 
 | Component | Function | Implementation Details |
 |----------|----------|-------------------------|
-| **Phase 3: App Permission Manager** | Lists installed apps and audits dangerous permissions (Camera, Mic, Storage, Location). Direct link to OS Settings provided. | Uses `PackageManager.getPackageInfo()` with `GET_PERMISSIONS` executed on a background thread. |
-| **Phase 4: Real-Time Monitoring** | Tracks last usage time of sensitive hardware (Camera/Mic/Location) for each app over 7 days. | Powered by `UsageStatsManager` (foreground/background logs). |
+| **Phase 1: App Permission Manager** | Lists installed apps and audits dangerous permissions (Camera, Mic, Storage, Location). Direct link to OS Settings provided. | Uses `PackageManager.getPackageInfo()` with `GET_PERMISSIONS` executed on a background thread. |
+| **Phase 2: Real-Time Monitoring** | Tracks last usage time of sensitive hardware (Camera/Mic/Location) for each app over 7 days. | Powered by `UsageStatsManager` (foreground/background logs). |
 
 ---
 
@@ -31,8 +31,8 @@ The application is structured into **four main functional modules**, all accessi
 
 | Metric / Section | Function | Android API Used |
 |------------------|----------|------------------|
-| **Phase 5: Privacy Reports** | Generates system health summary: RAM/CPU load, Top 5 Network Hogs, DPSG Security Score. | `ActivityManager`, `Debug.MemoryInfo`, `TrafficStats` |
-| **Phase 6: AI Behavioral Alerts** | Shows alerts triggered by rule-based analysis of CPU/RAM spikes or abnormal activity. | Internal Java logic (Mock data supported) |
+| **Phase 3: Privacy Reports** | Generates system health summary: RAM/CPU load, Top 5 Network Hogs, DPSG Security Score. | `ActivityManager`, `Debug.MemoryInfo`, `TrafficStats` |
+| **Phase 4: AI Behavioral Alerts** | Shows alerts triggered by rule-based analysis of CPU/RAM spikes or abnormal activity. | Internal Java logic (Mock data supported) |
 
 ---
 
@@ -92,7 +92,7 @@ Required for **Real-Time Monitoring** to function.
 
 ## 💻 Expected Output
 
-### **Dashboard**
+## **Dashboard**
 A clean UI with the following 4 primary modules:
 - **App Permissions**
 - **Real-Time Monitoring**
@@ -106,7 +106,7 @@ A clean UI with the following 4 primary modules:
 
 ---
 
-### **App Permissions**
+## **App Permissions**
 - Shows all installed apps  
 - Selecting an app displays all **dangerous permissions**  
 - A **Manage** button opens the OS settings for that app
@@ -121,7 +121,7 @@ A clean UI with the following 4 primary modules:
 
 ---
 
-### ***Real Time Monitoring***
+## **Real Time Monitoring**
  - Shows which apps use sensitive permissions
  - 4 main sensitive permissions
  - Shows timing that apps which timing they used permissions
@@ -135,7 +135,7 @@ A clean UI with the following 4 primary modules:
 ![WhatsApp Image 2025-11-30 at 23 36 36_59d9017d](https://github.com/user-attachments/assets/0d873393-366c-41c1-8dcf-e17b46aa90b3)
    
 
-### **Reports**
+## **Reports**
 Displays all major device security metrics:
 - **Security Score**
 - **RAM Usage**
@@ -155,7 +155,7 @@ Displays all major device security metrics:
 ---
 
 
-### ***Alert for Based on Aehaviour***
+## ***Alert for Based on Aehaviour***
 
    -   Shows crictical alerts
    -   Shows which apps using permission on night time
