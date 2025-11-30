@@ -60,7 +60,7 @@ The application is structured into **four main functional modules**, all accessi
 
 1. **Clone the Repository**
    ```
-   git clone https://[your-repository-url].git
+   git clone https://github.com/PERARASU10/CyberX--Digital-Privacy-Security-Guardian.git
    cd CyberX
    ```
 ## ▶️ Run Instructions
