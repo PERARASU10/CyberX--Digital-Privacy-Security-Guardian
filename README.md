@@ -4,7 +4,7 @@
 **Package Name:** `com.dpsg.cyberx`  
 **Status:** MVP Complete (Structural integrity achieved, API context needs final runtime tuning)
 
-DPSG CyberX is a high-assurance, native Android security application designed to give users complete visibility and proactive control over app permissions, resource usage, and background security risks. It acts as a **digital privacy guardian** by auditing apps that use sensitive system APIs.
+DPSG CyberX is a high-assurance, Android security application designed to give users complete visibility and proactive control over app permissions, resource usage, and background security risks. It acts as a **digital privacy guardian** by auditing apps that use sensitive system APIs.
 
 ---
 
@@ -180,17 +180,17 @@ Contributions are welcome!
    ```
    git checkout -b feature/AmazingFeature
    ```
-3.**Commit your changes**
-  ```
-  git commit -m "Add AmazingFeature"
-  ```
-4.**Push the branch**
-  ```
-  git push origin feature/AmazingFeature
-  ```
-5.**Open a Pull Request**
+3. **Commit your changes**
+   ```
+     git commit -m "Add AmazingFeature"
+   ```
+4. **Push the branch**
+   ```
+      git push origin feature/AmazingFeature
+   ```
+5. **Open a Pull Request**
 
-  Provide a clear explanation of what you changed and why.
+     Provide a clear explanation of what you changed and why.
 
 
 ## ⚖️ License
