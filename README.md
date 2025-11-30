@@ -99,14 +99,41 @@ A clean UI with the following 4 primary modules:
 - **Alerts**
 - **Reports**
 
+  
+## 🖼️ Output Screenshot
+
+![WhatsApp Image 2025-11-30 at 23 36 35_29144fd2](https://github.com/user-attachments/assets/e1881013-b319-4fae-af9d-8542dc5aa691)
+
 ---
 
 ### **App Permissions**
 - Shows all installed apps  
 - Selecting an app displays all **dangerous permissions**  
-- A **Manage** button opens the OS settings for that app  
+- A **Manage** button opens the OS settings for that app
+
+  
+## 🖼️ Output Screenshot
+
+![WhatsApp Image 2025-11-30 at 23 36 35_6b3472f8](https://github.com/user-attachments/assets/a81a03f7-2121-4f82-b737-d1de94e5d203)
+
+![WhatsApp Image 2025-11-30 at 23 36 35_33aca735](https://github.com/user-attachments/assets/3ecdf497-b251-4cc7-8b03-12b1b32a16e9)
+
 
 ---
+
+### ***Real Time Monitoring***
+ - Shows which apps use sensitive permissions
+ - 4 main sensitive permissions
+ - Shows timing that apps which timing they used permissions
+
+
+## 🖼️ Output Screenshot
+
+
+![WhatsApp Image 2025-11-30 at 23 36 36_6ae9fb8b](https://github.com/user-attachments/assets/7486a31e-f895-42b1-a2e6-b4af20ad3808)
+
+![WhatsApp Image 2025-11-30 at 23 36 36_59d9017d](https://github.com/user-attachments/assets/0d873393-366c-41c1-8dcf-e17b46aa90b3)
+   
 
 ### **Reports**
 Displays all major device security metrics:
@@ -117,10 +144,26 @@ Displays all major device security metrics:
 - **Top 5 Network/Data Hogs**
 - **Memory-Sorted Process List**
 
----
 
 ## 🖼️ Output Screenshot
 
+![WhatsApp Image 2025-11-30 at 23 36 37_fdb39f38](https://github.com/user-attachments/assets/4f2cb4ca-82c8-4e0d-91b1-a9dccaaa5c79)
+
+
+![WhatsApp Image 2025-11-30 at 23 36 37_a6ac2b95](https://github.com/user-attachments/assets/f726003c-f3fb-438d-9105-a588373d5501)
+
+---
+
+
+### ***Alert for Based on Aehaviour***
+
+   -   Shows crictical alerts
+   -   Shows which apps using permission on night time
+   -   Even screen locked
+
+## 🖼️ Output Screenshot
+
+![WhatsApp Image 2025-11-30 at 23 36 38_fd2d1bec](https://github.com/user-attachments/assets/6ae9f4a8-6924-426f-aa61-1d7dd6ecbe54)
 
 
 
@@ -147,6 +190,7 @@ Contributions are welcome!
   ```
 5.Open a Pull Request
   Provide a clear explanation of what you changed and why.
+
 
 ##⚖️ License
 
