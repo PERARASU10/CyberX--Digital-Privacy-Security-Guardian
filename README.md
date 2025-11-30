@@ -204,10 +204,11 @@ Contributions are welcome!
 **CyberX Development Team**
 
 - ** Perarasu M ** — Founder & Lead Developer  
-  *Android Development • Cybersecurity • System Monitoring Modules*
+  *Android Development • Cybersecurity • System Monitoring Module*
 
-- ** Kantha Sishanth S ** - Co-Developer
-   *Feature Development • UI/UX • Debugging & Optimization*
+- ** Kantha Sishanth S ** — Co-Developer  
+  *Feature Development • UI/UX • Debugging & Optimization*
 
 If you contributed to this project and want your name added, feel free to open a Pull Request!
+
 
