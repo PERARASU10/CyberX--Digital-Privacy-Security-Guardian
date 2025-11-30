@@ -197,4 +197,17 @@ Contributions are welcome!
 
   Distributed under the MIT License.
   See LICENSE.md for more information.
-   
+
+
+## ✍️ Authors
+
+**CyberX Development Team**
+
+- ** Perarasu M ** — Founder & Lead Developer  
+  *Android Development • Cybersecurity • System Monitoring Modules*
+
+- ** Kantha Sishanth S ** - Co-Developer
+   *Feature Development • UI/UX • Debugging & Optimization*
+
+If you contributed to this project and want your name added, feel free to open a Pull Request!
+
