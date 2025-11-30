@@ -168,7 +168,7 @@ Displays all major device security metrics:
 
 
 
-## 🤝 Contributing
+## 🤝 Contribute
 
 Contributions are welcome!
 
@@ -203,12 +203,12 @@ Contributions are welcome!
 
 **CyberX Development Team**
 
-- ** Perarasu M ** — Founder & Lead Developer  
+- **Perarasu M** — Founder & Lead Developer  
   *Android Development • Cybersecurity • System Monitoring Module*
 
-- ** Kantha Sishanth S ** — Co-Developer  
+- **Kantha Sishanth S** — Co-Founder & Co-Developer  
   *Feature Development • UI/UX • Debugging & Optimization*
 
-If you contributed to this project and want your name added, feel free to open a Pull Request!
+If you like to contribute to this project, feel free to open a Pull Request!
 
 
